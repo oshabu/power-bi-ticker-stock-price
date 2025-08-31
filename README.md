@@ -2,7 +2,7 @@
 test play for building dashbord in power bi
 
 Data Source: <a href="https://revesta.net" target="__blank">revesta.net</a>
-https://github.com/JeremyPersing
+Data Source: <a href="https://github.com/JeremyPersing" target="__blank">Jeremy Persing
 
 ## Learn Power BI and DAX Using a Real World Data Set
 
