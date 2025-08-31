@@ -1,10 +1,8 @@
 # power-bi-ticker-stock-price
 test play for building dashbord in power bi
 
-
-# Stock Dashboard for Intermediates and Beginners
-
 Data Source: <a href="https://revesta.net" target="__blank">revesta.net</a>
+https://github.com/JeremyPersing
 
 ## Learn Power BI and DAX Using a Real World Data Set
 
