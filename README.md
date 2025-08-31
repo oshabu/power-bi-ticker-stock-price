@@ -6,8 +6,6 @@ test play for building dashbord in power bi
 
 Data Source: <a href="https://revesta.net" target="__blank">revesta.net</a>
 
-<a href="https://www.youtube.com/watch?v=XZCLRacNBAw" target="__blank"><img src="https://github.com/JeremyPersing/intermediate-stock-dashboard/blob/main/Power%20Bi%20stock%20market%20Dashboard.png" alt="Thumbnail" /></a>
-
 ## Learn Power BI and DAX Using a Real World Data Set
 
 ## DAX Used in this Project
